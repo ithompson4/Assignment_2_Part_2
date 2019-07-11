@@ -1,0 +1,17 @@
+.textarea {
+    width: 90%;
+    height: auto;
+    border: 1px solid #000;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.textareaDotted {
+    border: 2px dotted #000;
+}
+
+.textareaGrey {
+    border-radius: 4px;
+    background: gainsboro;
+    resize: none;
+}

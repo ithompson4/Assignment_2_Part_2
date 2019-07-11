@@ -1,0 +1,16 @@
+.card {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.cardShadow {
+    transition: 0.3s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+}
+
+.cardGrey {
+    background: #ccc;
+}
+

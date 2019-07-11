@@ -1,0 +1,12 @@
+.input {
+    width: 200px;
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+.inputBorderBottom {
+    border: none;
+    border-bottom: 1px solid #07c4c4;
+}
